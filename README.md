@@ -26,6 +26,7 @@ Satisfaction: Employee satisfaction is visualized with a bar chart indicating di
 Geographical Distribution: A map of the United States illustrates the geographical distribution of employees, highlighting where employees are located across the country.
 
 Summary
+
 This HR dashboard serves as a powerful tool for HR professionals to monitor and analyze key metrics related to workforce composition, recruitment effectiveness, performance evaluations, and employee satisfaction. It facilitates data-driven decision-making and strategic planning by providing clear, visual insights into the organization’s human resources.
 
 
